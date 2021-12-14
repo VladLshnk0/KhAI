@@ -6,8 +6,8 @@ int main(int argc, char *argv[ ])
 {
 QApplication app(argc, argv);
  
-Qlabel = label = new QLabel
-label.show( );
+Qlabel = labell = new QLabel
+labell.show( );
  
 return app.exec( );
 }
